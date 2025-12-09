@@ -94,3 +94,10 @@ devbox install
 ### Custom Scripts
 
 Add custom scripts to the `devbox.json` shell scripts section for project-specific workflows.
+
+### Required env variables for aws
+
+AWS_ACCESS_KEY_ID
+AWS_SECRET_ACCESS_KEY
+export AWS_DEFAULT_REGION
+TF_VAR_aws_region
