@@ -41,3 +41,6 @@ terraform.rc
 
 # Environment variables (contains sensitive AWS credentials)
 .envrc
+
+#Terragrunt cache files
+.terragrunt-cache
